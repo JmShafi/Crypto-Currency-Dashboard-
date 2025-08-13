@@ -1,6 +1,6 @@
 
 import React, { useState, useMemo } from 'react';
-import useFetchData from './hooks/useFetchData.js';
+import useFetchData from './Hooks/useFetchData.js';
 import ChartComponent from './components/ChartComponent.jsx';
 import DataTable from './components/DataTable.jsx';
 import FilterControls from './components/FilterControls.jsx';
